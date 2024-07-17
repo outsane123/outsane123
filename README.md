@@ -1,9 +1,15 @@
 👋 Hi, I’m @outsane123
+
 👀 I’m interested in web development
+
 🌱 I’m currently learning HTML, CSS, JavaScript, and Python
+
 💞️ I’m looking to collaborate on internships
+
 📫 How to reach me: Email | Phone: +959893464625
+
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I’ve been learning coding for just 10 days and am already applying for internships!
 
 <!---
