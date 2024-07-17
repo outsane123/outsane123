@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @outsane123
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML CSS JAVASCRIPT PYTHON
-- 💞️ I’m looking to collaborate on internship
-- 📫 How to reach me email nyeinchanarkar01061987@gmail.com phone 00959893464625
-- 😄 Pronouns: male
-- ⚡ Fun fact: Just learned coding for 10 days and starting applying intern :D
+👋 Hi, I’m @outsane123
+👀 I’m interested in web development
+🌱 I’m currently learning HTML, CSS, JavaScript, and Python
+💞️ I’m looking to collaborate on internships
+📫 How to reach me: Email | Phone: +959893464625
+😄 Pronouns: He/Him
+⚡ Fun fact: I’ve been learning coding for just 10 days and am already applying for internships!
 
 <!---
 outsane123/outsane123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
