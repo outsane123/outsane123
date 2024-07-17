@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on internships
 
-📫 How to reach me: Email | Phone: +959893464625
+📫 How to reach me: Email: nyeinchanarkar01061987@gmail.com | Phone: +959893464625
 
 😄 Pronouns: He/Him
 
